@@ -1,7 +1,6 @@
 import kotlinx.css.*
 import react.*
 import react.dom.*
-import kotlinx.browser.window
 import styled.css
 import styled.styledDiv
 
